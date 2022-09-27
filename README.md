@@ -12,12 +12,13 @@
 
 # 분류
 
-# CLI
-[CLI 명령어](https://github.com/ljheayeee/TIL/blob/master/CLI/CLI-Command.md)
+## CLI
+- [CLI 명령어](https://github.com/ljheayeee/TIL/blob/master/CLI/CLI-Command.md)
 
-# MarkDown
-[MarkDown 명령어](https://github.com/ljheayeee/TIL/blob/master/MarkDown/MD-Command.md)
+## MarkDown
+- [MarkDown 명령어](https://github.com/ljheayeee/TIL/blob/master/MarkDown/MD-Command.md)
 
-# Git
-[Git 명령어](https://github.com/ljheayeee/TIL/blob/master/Git/Git-Command.md)
-[Git 연결](https://github.com/ljheayeee/TIL/blob/master/Git/Git-Connect.md)
+## Git
+- [Git 명령어](https://github.com/ljheayeee/TIL/blob/master/Git/Git-Command.md)
+
+- [Git 연결](https://github.com/ljheayeee/TIL/blob/master/Git/Git-Connect.md)
