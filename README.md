@@ -20,3 +20,6 @@
 
 ## Git
 - [Git 명령어](https://github.com/ljheayeee/TIL/blob/master/Git/Git-Command.md)
+---
+# 참조 사이트
+- [git 특강](https://hphk-edu.notion.site/Git-220926-220927-AI-22-29fe7cafcc324937a34c138c5f3b0c74)
