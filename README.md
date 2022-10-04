@@ -29,7 +29,8 @@
 ## 도움 되는 사이트
 
 - ### markdown
-    - [Tables Generator](https://www.tablesgenerator.com/): 마크다운 표 생성해주는 곳
+    - [Tables Generator](https://www.tablesgenerator.com/): 마크다운 표 생성해주는 사이트
+    - [bitly](https://bitly.com/): url 단축 시켜주는 사이트
 
 ## 인터넷 강의
 
@@ -40,3 +41,10 @@
 3. [컴맹을 위한 Go 언어 기초 프로그래밍 강좌(1~6 참고)](https://www.youtube.com/watch?v=Tq3W8UyltFs&list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6 )
 
 4. [네이버 부스트 코스](https://www.boostcourse.org/)
+
+5. [엔지니어 대한민국](https://www.youtube.com/user/damazzang/videos) 
+
+6. [승지니어 기술면접 라이브 코딩 기본편](https://www.youtube.com/watch?v=Bt11jaoqt_Y&list=PL2mzT_U4XxDm7p6g1o3KeQMsyRLfzSaVW )
+
+7. [승지니어 기술면접 라이브코딩 실전편](https://www.youtube.com/watch?v=Bt11jaoqt_Y&list=PL2mzT_U4XxDm7p6g1o3KeQMsyRLfzSaVW )
+8. [얄팍한 코딩사전](https://www.youtube.com/c/%EC%96%84%ED%8C%8D%ED%95%9C%EC%BD%94%EB%94%A9%EC%82%AC%EC%A0%84/videos) 
